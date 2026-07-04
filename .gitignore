@@ -1,0 +1,6 @@
+.DS_Store
+mac/.build/
+mac/dist/
+web/node_modules/
+web/test-results/
+web/playwright-report/
